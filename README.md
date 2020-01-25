@@ -34,3 +34,6 @@ This program expects the console dimensions to be set to 120 Columns by 40 Rows.
 
 <img src="screenshots/screenshot_2.png" style="display: block; margin-left: auto; margin-right: auto;
   width: 70%;" />
+
+<img src="screenshots/cmd_fpw_gameplay.gif" style="display: block; margin-left: auto; margin-right: auto;
+  width: 70%;" />
