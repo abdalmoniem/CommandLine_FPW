@@ -1,5 +1,7 @@
 # Command Line First Person Walker (CMD_FPW)
 
+<img src="screenshots/cmd_fpw_gameplay.gif" style="display: block; margin-left: auto; margin-right: auto; width: 150%;" />
+
 ## Introduction
 Ever since I played DOOM the original and Wolfenstein 3D I wanted to know how these games were made and what technologies they used. And after many many years I finally knew what and how they were made. They used a technique called ray casting, which means that these games faked 3D and were not true 3D games.
 
@@ -32,5 +34,3 @@ This program expects the console dimensions to be set to 120 Columns by 40 Rows.
 <img src="screenshots/screenshot_1.png" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
 
 <img src="screenshots/screenshot_2.png" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
-
-<img src="screenshots/cmd_fpw_gameplay.gif" style="display: block; margin-left: auto; margin-right: auto; width: 150%;" />
