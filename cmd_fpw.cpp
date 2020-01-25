@@ -3,13 +3,13 @@
 
    License
    ~~~~~~~
-   Copyright (C) 2018  Javidx9
+   Copyright (C) 2018  hifnawy
    This program comes with ABSOLUTELY NO WARRANTY.
    This is free software, and you are welcome to redistribute it
    under certain conditions; See license for details.
 
    GNU GPLv3
-   https://github.com/OneLoneCoder/videos/blob/master/LICENSE
+   https://github.com/abdalmoniem/CommandLine_FPW/blob/master/LICENSE
 
    IMPORTANT!!!!
    ~~~~~~~~~~~~~
