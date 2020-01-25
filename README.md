@@ -29,10 +29,8 @@ in this mode you only walk around a maze room and try to exit the maze.
 This program expects the console dimensions to be set to 120 Columns by 40 Rows. I recommend a small font (Consolas for example) at size 16. You can do this by right clicking on the console title bar, and specifying the properties. You can also choose to default to them in the future. I also recommend using [Cmder](https://cmder.net/) since the default windows command prompt isn't capable of displaying unicode characters.
 
 ### Screenshots
-<img src="screenshots/screenshot_1.png" style="display: block; margin-left: auto; margin-right: auto;
-  width: 70%;" />
+<img src="screenshots/screenshot_1.png" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
 
-<img src="screenshots/screenshot_2.png" style="display: block; margin-left: auto; margin-right: auto;
-  width: 70%;" />
+<img src="screenshots/screenshot_2.png" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
 
-<img src="screenshots/cmd_fpw_gameplay.gif" />
+<img src="screenshots/cmd_fpw_gameplay.gif" style="display: block; margin-left: auto; margin-right: auto; width: 150%;" />
